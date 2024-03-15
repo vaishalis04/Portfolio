@@ -1,0 +1,12 @@
+.footer {
+  background-color: #FDBE14; /* Yellow background color */
+  color: #fff; /* Text color */
+  padding: 20px 0; /* Padding top and bottom */
+  text-align: center; /* Center align text */
+}
+
+.footer-content {
+  width: 100%;
+  /* max-width: 1200px;  */
+  margin: 0 auto; /* Center align content */
+}
